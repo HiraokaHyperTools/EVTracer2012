@@ -234,3 +234,8 @@ _Pvt_Extensions
 
 # FAKE - F# Make
 .fake/
+/D.csv
+/D.xml
+/Deleted.xml
+/EVTracer2012/Setup_EVTracer2012.exe
+/EVTracer2012/TmpVer.nsh
